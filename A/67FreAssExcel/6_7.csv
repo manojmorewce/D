@@ -1,0 +1,11 @@
+Tid,0,1,2,3
+1,soap,detergent,shampoo,
+2,shampoo,soap,,
+3,pen,book,soap,milk
+4,milk,bread,pen,
+5,soap,milk,pen,bread
+6,shampoo,pen,bread,
+7,milk,rice,bread,soap
+8,detergent,rice,milk,
+9,pen,book,milk,
+10,milk,,,
